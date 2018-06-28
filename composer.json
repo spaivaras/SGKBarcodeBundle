@@ -25,7 +25,6 @@
     }
   ],
   "require": {
-    "php": "^7.1",
     "symfony/framework-bundle": "^3.4",
     "symfony/twig-bundle": "^3.4",
     "symfony/options-resolver": "^3.4"
